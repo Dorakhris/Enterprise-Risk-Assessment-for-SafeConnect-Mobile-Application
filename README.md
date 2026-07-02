@@ -115,9 +115,6 @@ The engagement produced:
 
 The complete consulting report is available here:
 
-📄 **Business_Risk_Management.pdf**
+📄 **[Business_Risk_Management.pdf](https://github.com/Dorakhris/Enterprise-Risk-Assessment-for-SafeConnect-Mobile-Application/blob/d5d50d77731e2eacd2c38a014692b8ff64a7def9/Business_Risk_Management.pdf)**
 
 
-
-
-Innovate Inc., ConnectSphere, and all associated scenarios are fictional and were created to demonstrate professional cybersecurity consulting methodologies.
