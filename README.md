@@ -115,7 +115,7 @@ The engagement produced:
 
 The complete consulting report is available here:
 
-📄 **docs/Business_Risk_Management.pdf**
+📄 **Business_Risk_Management.pdf**
 
 
 
